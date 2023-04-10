@@ -1,0 +1,9 @@
+com\tutorialsninja\qa\pages\RegisterPage.class
+com\tutorialsninja\qa\pages\LoginPage.class
+com\tutorialsninja\qa\utils\Utilities$1.class
+com\tutorialsninja\qa\pages\AccountPage.class
+com\tutorialsninja\qa\pages\Rest.class
+com\tutorialsninja\qa\pages\Welcomemessage.class
+com\tutorialsninja\qa\pages\AccountsSuccessPage.class
+com\tutorialsninja\qa\pages\HomePage.class
+com\tutorialsninja\qa\utils\Utilities.class
